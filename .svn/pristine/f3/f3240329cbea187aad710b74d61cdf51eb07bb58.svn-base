@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D89D67A-78A0-4A84-9387-291A02B0A4F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418" : "ZhongHui\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZhongHui",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZhongHui.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/123.56.112.217:50080\/svn\/zhonghui",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418"
+    }
+  ]
+}

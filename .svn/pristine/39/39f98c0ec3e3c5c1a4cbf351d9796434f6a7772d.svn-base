@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D89D67A-78A0-4A84-9387-291A02B0A4F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418</key>
+		<string>http://123.56.112.217:50080/svn/zhonghui/code/ios/ZhongHui/trunk/ZhongHui</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZhongHui.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418</key>
+		<string>http://123.56.112.217:50080/svn/zhonghui</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://123.56.112.217:50080/svn/zhonghui/code/ios/ZhongHui/trunk/ZhongHui/ZhongHui.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>bd19dd78-9ecb-6a4b-8a63-809c71fa170a++7418</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZhongHui</string>
+		</dict>
+	</array>
+</dict>
+</plist>
